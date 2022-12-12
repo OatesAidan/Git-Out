@@ -1,0 +1,32 @@
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\appsettings.json
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Git Out.exe
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Git Out.deps.json
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Git Out.runtimeconfig.json
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Git Out.dll
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Git Out.pdb
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.csproj.AssemblyReference.cache
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.AssemblyInfoInputs.cache
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.AssemblyInfo.cs
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.csproj.CoreCompileInputs.cache
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\staticwebassets\msbuild.Git Out.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\staticwebassets\msbuild.build.Git Out.props
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Git Out.props
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Git Out.props
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\scopedcss\bundle\Git Out.styles.css
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.csproj.CopyComplete
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.dll
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\refint\Git Out.dll
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.pdb
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\Git Out.genruntimeconfig.cache
+C:\Users\rorie\OneDrive\Desktop\Programming Comp class\Git Out\Git Out\obj\Debug\net6.0\ref\Git Out.dll
